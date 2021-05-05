@@ -4,7 +4,7 @@ Este é meu primeiro projeto de contato com Desingner de interfaces. Foi elabora
 
 Foi imprementado uma tela inicial na page, de maneira que nos leva nos leva de maneira perseptiva a pensar que estamos na tela de entrada do nosso Instagram.
 
-![Interface](https://imgur.com/a/U2uZLeY)
+![Interface](https://imgur.com/gallery/iXElI3X)
 
 ##Linguagens Utilizadas:
 -HTML;
