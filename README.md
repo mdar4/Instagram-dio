@@ -4,7 +4,7 @@
 
 <p>Foi imprementado uma tela inicial na page, de maneira que nos leva nos leva de maneira perseptiva a pensar que estamos na tela de entrada do nosso Instagram.</p>
 
-<img href=('https://imgur.com/gallery/iXElI3X')>
+<img href="https://imgur.com/gallery/iXElI3X">
 
 <h2>Linguagens Utilizadas:</h2>
 <ul>
