@@ -4,7 +4,7 @@
 
 <p>Foi imprementado uma tela inicial na page, de maneira que nos leva de maneira perseptiva a pensar que estamos na tela de entrada do nosso Instagram.</p>
 
-![](https://imgur.com/gallery/iXElI3X)
+![](https://i.imgur.com/P5XaCij.png)
 
 <h2>Linguagens Utilizadas:</h2>
 <ul>
